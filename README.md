@@ -1,6 +1,6 @@
 # AdTracking Fraud Detection
 ---
-Submission by: Sukriti Macker (sm11017), Shivek Aggarwal (sa7495), Prajna Nayak (), Sahil Harwani (sh7253)
+Submission by: Sukriti Macker (sm11017), Shivek Aggarwal (sa7495), Prajna Nayak (pn2224), Sahil Harwani (sh7253)
 ---
 ## Problem Statement
 - The project's primary focus revolves around addressing the pervasive issue of click fraud within the realm of online advertising, particularly in China's expansive mobile market.
